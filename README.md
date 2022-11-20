@@ -1,1 +1,1 @@
-# odin-recipes
+This project is to test my HTML knowledge that i have gained from the previous lessons. On this tasks, I created 3 recipe pages with unordered list of instructions and ordered list of steps. I did commit the changes, and published it using the git terminal to familiarize myself in using the terminal, and to build my confidence using this platform.
